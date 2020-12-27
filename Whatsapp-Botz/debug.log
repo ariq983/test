@@ -1,0 +1,2 @@
+[1227/215515.244:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ariqs\AppData\Local\Temp\puppeteer_dev_chrome_profile-ov2fHu\Crashpad\attachments\4bd84670-7f18-4b4d-9f31-3f87da4a00e9: The system cannot find the path specified. (0x3)
+[1227/215558.637:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ariqs\AppData\Local\Temp\puppeteer_dev_chrome_profile-2IWBqP\Crashpad\attachments\a9745618-618e-4189-bcfb-8ad5e483607d: The system cannot find the path specified. (0x3)
